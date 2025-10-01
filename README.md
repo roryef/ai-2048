@@ -1,7 +1,6 @@
 Rory Eastland-Fruit
 November 2024
 AI-Powered 2048 Game Solver
-Developed for COMS4701 Artificial Intelligence, Columbia University
 
 Overview
 --------
