@@ -1,6 +1,4 @@
-Rory Eastland-Fruit
-November 2024
-AI-Powered 2048 Game Solver
+Rory Eastland-Fruit; November 2024; AI-Powered 2048 Game Solver
 
 Overview
 --------
